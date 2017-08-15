@@ -38,7 +38,7 @@ There are not really issues coming out of this section. It's only important to r
 
 ### HTTP Driver
 
-This module has the most issues as two main plugins are commonly used `axios` and `vue-router`.
+This module has the most issues as two main plugins are commonly used `axios` and `vue-resource`.
 
 It's vital to realize that the object being passed into any method like `login` or `register` is the object that will be directly passed into these plugins.
 
